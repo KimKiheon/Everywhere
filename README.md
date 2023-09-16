@@ -2,53 +2,42 @@
 
 
 
-구현 기능: 메인화면 1
-![실행화면캡쳐](./screenshot/메인화면1.PNG)
 
-구현 기능: 회원등록
-![실행화면캡쳐](./screenshot/회원등록.PNG)
+## DOCS
 
-구현 기능: 회원 정보 수정
-![실행화면캡쳐](./screenshot/회원정보수정.PNG)
+### ERD
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/Table캡처.PNG)
 
-구현 기능: 회원 정보 삭제
-![실행화면캡쳐](./screenshot/회원정보삭제.PNG)
+### 정보구조도
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/EverywhereFlowchart.png)
 
-구현 기능: 회원 정보 찾기
-![실행화면캡쳐](./screenshot/회원정보찾기.PNG)
+### Usercase
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/userUsercase.PNG)
 
-구현 기능: 로그인, 로그아웃
-![실행화면캡쳐](./screenshot/로그인.PNG)
+### Class Diagram
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-board.PNG)
 
-구현 기능: 관광지 전체 검색
-![실행화면캡쳐](./screenshot/관광지전체검색.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-dto1.PNG)
 
-구현 기능: 관광지 상세 조회
-![실행화면캡쳐](./screenshot/관광지상세조회.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-dto2.PNG)
 
-구현 기능: 관광지 지역별 조회
-![실행화면캡쳐](./screenshot/관광지지역별조회.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-notice.PNG)
 
-구현 기능: 관광지 종류별 조회
-![실행화면캡쳐](./screenshot/관광지종류별조회.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-pagebean.PNG)
 
-구현 기능: 핫플레이스
-![실행화면캡쳐](./screenshot/핫플레이스.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-qna.PNG)
 
-구현 기능: 게시판
-![실행화면캡쳐](./screenshot/게시판.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-trip.PNG)
 
-구현 기능: 게시글조회
-![실행화면캡쳐](./screenshot/게시글조회.PNG)
-
-구현 기능: 게시글수정
-![실행화면캡쳐](./screenshot/게시글수정.PNG)
-
-구현 기능: 게시글작성
-![실행화면캡쳐](./screenshot/게시글작성.PNG)
-
-구현 기능: 게시글삭제
-![실행화면캡쳐](./screenshot/게시글삭제.PNG)
-
-구현 기능: 게시글댓글
-![실행화면캡쳐](./screenshot/게시글댓글.PNG)
+![ /docs/ClassDiagram-board.PNG
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/ClassDiagram-user.PNG)
