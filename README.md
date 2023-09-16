@@ -15,7 +15,7 @@
 
 ### Usercase
 ![ /docs/ClassDiagram-board.PNG
-](https://github.com/KimKiheon/Everywhere/blob/main/docs/userUsecase.PNG)
+](https://github.com/KimKiheon/Everywhere/blob/main/docs/userUsecase.png)
 
 ### Class Diagram
 ![ /docs/ClassDiagram-board.PNG
